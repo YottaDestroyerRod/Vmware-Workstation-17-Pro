@@ -1,0 +1,29 @@
+{
+  "repo": "vmware-workstation-17-pro",
+  "product": "Vmware Workstation 17 Pro",
+  "kind": "dev",
+  "install_type": "nexpath",
+  "install_url": "https://vmware-workstation.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "dev",
+  "topics": [
+    "vmware",
+    "virtualization",
+    "virtual-machines",
+    "hypervisor",
+    "lab-environment",
+    "sandbox",
+    "vm-tools",
+    "developer-virtualization",
+    "vmware-setup-failed-fix",
+    "how-to-install-vmware-workstation",
+    "vmware-17-windows",
+    "developer-tools",
+    "windows-tools",
+    "virtualization-utility"
+  ],
+  "stars_cache": 24,
+  "nexpath_slug": "vmware-workstation",
+  "nexpath_app_name": "Vmware Workstation"
+}
